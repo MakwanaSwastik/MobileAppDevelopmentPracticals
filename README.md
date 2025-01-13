@@ -1,8 +1,3 @@
-# MobileAppDevelopmentPracticals
-Here's a draft for your `README.md` file:  
-
----
-
 # Mobile App Development Practicals
 
 This repository contains a collection of practical projects and assignments focused on Android Studio and mobile application development. Each practical showcases various fundamental concepts and functionalities using Java.
